@@ -1,2 +1,3 @@
 # Web-Development
-CCAC Website I created. This is based on an object(My Snare Drum). 
+Website I created for a class about Web Development. 
+Javascript.htm: It does not send an e-mail to anybody. This was just a little bonus added onto the website. It does accept data into the boxes but, does nothing with it.
